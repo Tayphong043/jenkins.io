@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/08/26/cloudbees-announce-hudson-as-a-service
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/11/03/what-jvm-versions-are-running-jenkins
----

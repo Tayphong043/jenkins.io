@@ -1,6 +1,0 @@
----
-name: Next Turn
-github: nxtn
----
-
-Community contributor

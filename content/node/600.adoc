@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/08/10/upcoming-office-hour-on-workflow
----

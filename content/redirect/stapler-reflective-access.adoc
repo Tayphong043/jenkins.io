@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /doc/developer/handling-requests/deprecated-reflective-access
----

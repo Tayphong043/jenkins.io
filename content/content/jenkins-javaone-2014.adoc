@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/09/24/jenkins-in-javaone-2014
----

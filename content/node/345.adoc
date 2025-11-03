@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/11/04/a-dead-bug-is-a-good-bug
----

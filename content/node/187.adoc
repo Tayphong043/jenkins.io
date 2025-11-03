@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/01/learn-about-ci-with-hudson-sf-java-user-group
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /security/advisory/2013-01-04/
----

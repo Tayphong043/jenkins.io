@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://plugins.jenkins.io/remoting-security-workaround/
----

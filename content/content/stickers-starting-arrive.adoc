@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/06/23/stickers-starting-to-arrive
----

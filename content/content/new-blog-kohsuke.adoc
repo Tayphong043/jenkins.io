@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/04/16/a-new-blog-for-kohsuke
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/08/28/juc-speaker-blog-series-jamie-omeara-juc-u-s-west
----

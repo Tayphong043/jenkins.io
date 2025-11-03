@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/09/05/hudsonmobi-dons-a-black-turtleneck-and-jumps-to-ios4
----

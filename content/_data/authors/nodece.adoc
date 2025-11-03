@@ -1,4 +1,0 @@
----
-name: "Zixuan Liu"
-github: "nodece"
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/04/16/active-directory-plugin-improvements
----

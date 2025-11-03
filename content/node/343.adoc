@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/10/21/report-bugs-and-win-kindle
----

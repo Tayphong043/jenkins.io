@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/11/11/new-jenkins-releases-with-important-security-fixes
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/02/14/upcoming-jenkins-events-in-tokyo
----

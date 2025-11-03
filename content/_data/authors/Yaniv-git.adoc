@@ -1,5 +1,0 @@
----
-name: "Yaniv Nizry"
-twitter: YNizry
-github: Yaniv-git
----

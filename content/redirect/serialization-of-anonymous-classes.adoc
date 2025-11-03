@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /doc/developer/extensibility/serialization-of-anonymous-classes/
----

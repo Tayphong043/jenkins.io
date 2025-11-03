@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/04/18/come-join-the-infra-team
----

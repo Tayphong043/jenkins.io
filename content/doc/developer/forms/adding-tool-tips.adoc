@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: "https://weekly.ci.jenkins.io/design-library/tooltips/"
----

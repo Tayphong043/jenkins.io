@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/08/31/jenkins-cia-program-and-meetup-updates
----

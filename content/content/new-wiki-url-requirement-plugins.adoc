@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/06/22/new-wiki-url-requirement-for-plugins
----

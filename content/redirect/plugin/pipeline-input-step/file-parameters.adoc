@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://github.com/jenkinsci/pipeline-input-step-plugin/blob/master/docs/fileParameters.md
----

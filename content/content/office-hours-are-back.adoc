@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/07/23/office-hours-are-back
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/04/01/your-java-web-start-slaves-will-be-always-clean
----

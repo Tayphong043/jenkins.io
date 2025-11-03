@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/12/18/december-jam-world-tour-lima-peru
----

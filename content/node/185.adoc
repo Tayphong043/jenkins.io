@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/02/call-for-testers-the-older-the-better
----

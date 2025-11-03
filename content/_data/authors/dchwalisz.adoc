@@ -1,4 +1,0 @@
----
-name: "David Chwalisz"
-github: "dcfsc"
----

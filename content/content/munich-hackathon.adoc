@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2013/04/25/munich-hackathon
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/09/22/javaone-day-two-in-pictures
----

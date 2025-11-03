@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: "/content/jenkins-celebration-day-february-26"
----

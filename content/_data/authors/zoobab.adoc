@@ -1,5 +1,0 @@
----
-name: "Benjamin Henrion"
-twitter: zoobab
-github: zoobab
----

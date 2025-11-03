@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/01/11/hudsons-future
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/09/02/recent-label-and-matrix-project-improvement
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/12/28/adding-diagrams-to-wiki
----

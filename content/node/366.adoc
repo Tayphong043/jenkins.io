@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /content/thank-you-downloading-windows-installer
----

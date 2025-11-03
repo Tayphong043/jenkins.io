@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/08/11/quiet-period-feature
----

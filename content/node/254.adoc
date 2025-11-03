@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/09/20/pre-javaone-hudson-meetup-redux
----

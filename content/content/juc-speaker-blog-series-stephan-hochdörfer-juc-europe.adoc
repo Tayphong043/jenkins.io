@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/06/15/juc-speaker-blog-series-stephan-hochdrfer-juc-europe
----

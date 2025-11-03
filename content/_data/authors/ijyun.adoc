@@ -1,4 +1,0 @@
----
-name: "Forest Jing（景韵）"
-github: ijyun
----

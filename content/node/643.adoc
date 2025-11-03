@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /content/jenkins-20-proposals
----

@@ -1,4 +1,0 @@
----
-name: "Charles Lowell"
-github: cowboyd
----

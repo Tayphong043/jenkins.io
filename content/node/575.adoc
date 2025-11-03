@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/07/15/advancing-the-jenkins-gui-configuring-items-in-jenkins
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/11/23/new-hudson-mailing-lists
----

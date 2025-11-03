@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2013/09/23/experimental-plugins-update-center
----

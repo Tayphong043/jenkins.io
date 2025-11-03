@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2013/10/09/meet-the-community-in-juc
----

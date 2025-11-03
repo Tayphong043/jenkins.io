@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/09/01/copenhagen-hudson-user-meetup
----

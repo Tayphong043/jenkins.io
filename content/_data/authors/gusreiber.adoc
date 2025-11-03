@@ -1,4 +1,0 @@
----
-name: "Gus Reiber"
-github: gusreiber
----

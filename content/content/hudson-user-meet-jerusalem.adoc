@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/10/21/hudson-user-meet-up-in-jerusalem
----

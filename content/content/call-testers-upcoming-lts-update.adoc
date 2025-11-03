@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/09/01/call-for-testers-upcoming-lts-update
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/05/12/ruby-plugins-hack-session-5-12-2011
----

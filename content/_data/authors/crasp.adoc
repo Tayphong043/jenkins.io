@@ -1,4 +1,0 @@
----
-name: "Christian Rasp"
-github: "crasp"
----

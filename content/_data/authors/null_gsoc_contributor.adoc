@@ -1,7 +1,0 @@
----
-name: "GSoC contributor placeholder"
----
-
-This is a GSoC Contributor bio placeholder.
-
-Please create one as soon as possible.

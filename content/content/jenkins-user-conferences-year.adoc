@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/03/19/jenkins-user-conferences-this-year
----

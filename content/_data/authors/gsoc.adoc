@@ -1,5 +1,0 @@
----
-name: "a GSoC mentor (to be defined)"
----
-
-This is a placeholder GSoC Mentor.

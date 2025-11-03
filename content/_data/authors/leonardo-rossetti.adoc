@@ -1,4 +1,0 @@
----
-name: "Leonardo Rossetti"
-github: odra
----

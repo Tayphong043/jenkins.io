@@ -1,7 +1,0 @@
----
-title: Development Environment
-layout: developerchapter
-summary: Preparing your development environment for Jenkins core and plugin development
----
-
-This chapter will give an overview about what you need to know about preparing your development environment for Jenkins core and plugin development

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/07/21/hudson-with-selenium-and-sauce-on-demand-videos
----

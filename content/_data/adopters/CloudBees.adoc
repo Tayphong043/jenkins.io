@@ -1,5 +1,0 @@
----
-name: "CloudBees"
-url: https://www.cloudbees.com/
-detailsUrl: https://www.cloudbees.com/jenkins
----

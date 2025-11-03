@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/12/09/security-updates-released-today
----

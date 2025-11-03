@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/08/12/official-jenkins-lts-docker-image
----

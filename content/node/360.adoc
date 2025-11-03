@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/12/19/fundraising-drive-update-thank-you-everyone
----

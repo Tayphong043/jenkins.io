@@ -1,4 +1,0 @@
----
-name: "Ankit Jain"
-github: "ankitjain28may"
----

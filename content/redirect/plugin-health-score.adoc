@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /doc/book/managing/plugins/#plugin-health-score
----

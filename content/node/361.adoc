@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/12/20/thanks-for-the-support-pagerduty
----

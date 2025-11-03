@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/11/15/the-beginning-of-a-new-era-ruby-plugins-now-a-reality
----

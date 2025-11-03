@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/06/14/hudson-1-362-released
----

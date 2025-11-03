@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/08/31/plugin-spotlight-version-column-plugin
----

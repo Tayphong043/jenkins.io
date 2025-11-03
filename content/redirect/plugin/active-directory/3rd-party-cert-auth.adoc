@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://docs.microsoft.com/en-US/troubleshoot/windows-server/identity/enable-ldap-over-ssl-3rd-certification-authority
----

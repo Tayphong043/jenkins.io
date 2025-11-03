@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/11/30/whos-driving-this-thing
----

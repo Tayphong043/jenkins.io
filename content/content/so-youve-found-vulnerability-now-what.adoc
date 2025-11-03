@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/07/05/so-youve-found-a-vulnerability-now-what
----

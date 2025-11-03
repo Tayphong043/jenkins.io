@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /oracleAccountSignup # TODO get rid of double redirect
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/09/20/ips-packages-of-jenkins-for-solaris-openindiana
----

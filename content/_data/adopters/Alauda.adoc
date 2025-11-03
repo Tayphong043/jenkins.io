@@ -1,6 +1,0 @@
----
-name: "Alauda"
-url: https://www.alauda.io/
-detailsUrl: https://github.com/alauda/alauda-devops-sync-plugin
-detailsLinkText: Project
----

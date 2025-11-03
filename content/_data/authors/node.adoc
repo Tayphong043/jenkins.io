@@ -1,4 +1,0 @@
----
-name: "Yang Zhentao"
-github: "node"
----

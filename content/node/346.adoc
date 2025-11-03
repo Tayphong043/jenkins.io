@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/11/07/jenkins-meetup-munich-videos
----

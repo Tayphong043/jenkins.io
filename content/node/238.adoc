@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/08/17/hudson-1-372-sets-sail
----

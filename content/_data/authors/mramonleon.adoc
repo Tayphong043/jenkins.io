@@ -1,4 +1,0 @@
----
-name: "Ramon Leon"
-github: "MRamonLeon"
----

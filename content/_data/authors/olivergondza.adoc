@@ -1,9 +1,0 @@
----
-name: "Oliver Gondža"
-twitter: "ogondza"
-github: "olivergondza"
-blog: 'https://olivergondza.github.io/'
-irc: ogondza
----
-
-Engineer at Red Hat. Open Source enthusiast. Jenkins core member.

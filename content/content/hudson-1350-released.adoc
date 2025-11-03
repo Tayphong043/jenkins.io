@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/15/hudson-1-350-released
----

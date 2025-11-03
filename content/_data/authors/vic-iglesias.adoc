@@ -1,4 +1,0 @@
----
-name: "Vic Iglesias"
-github: "viglesiasce"
----

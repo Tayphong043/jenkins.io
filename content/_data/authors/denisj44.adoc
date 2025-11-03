@@ -1,4 +1,0 @@
----
-name: "Denis Joubert"
-github: "denisj44"
----

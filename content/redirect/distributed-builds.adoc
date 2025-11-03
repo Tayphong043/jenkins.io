@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /doc/book/scaling/architecting-for-scale/#distributed-builds-architecture
----

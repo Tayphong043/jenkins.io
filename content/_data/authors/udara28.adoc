@@ -1,6 +1,0 @@
----
-name: "Udara De Silva"
-github: "udara28"
-irc: "udara28"
-twitter: "udarapiumal"
----

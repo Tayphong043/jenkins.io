@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/07/this-week-in-plugins
----

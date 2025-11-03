@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/04/12/pre-tested-commits-with-git
----

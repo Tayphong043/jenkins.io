@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/02/what-new-features-do-you-want-to-see
----

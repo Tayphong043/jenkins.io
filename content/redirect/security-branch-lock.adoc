@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /security/for-maintainers/#branch-lock
----

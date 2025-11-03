@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/05/tag-team-automating-massive-projects-with-hudson-and-artifactory
----

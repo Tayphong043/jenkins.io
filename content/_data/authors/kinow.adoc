@@ -1,4 +1,0 @@
----
-name: "Bruno P. Kinoshita"
-github: kinow
----

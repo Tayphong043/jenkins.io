@@ -1,4 +1,0 @@
----
-name: "Neha Gupta"
-github: "nehagup"
----

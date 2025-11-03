@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/08/10/big-security-fix-hudson-1-371-released
----

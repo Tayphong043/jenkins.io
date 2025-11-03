@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/02/23/would-you-run-hudson-in-the-cloud
----

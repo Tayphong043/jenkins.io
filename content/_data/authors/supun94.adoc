@@ -1,5 +1,0 @@
----
-name: "Supun Wanniarachchi"
-github: "supun94"
-irc: Supun
----

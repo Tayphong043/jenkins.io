@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2013/02/15/jenkins-ci-the-origins-of-butlers-build-masters-and-bowties
----

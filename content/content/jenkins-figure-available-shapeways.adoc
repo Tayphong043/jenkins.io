@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/07/28/jenkins-figure-is-available-in-shapeways
----

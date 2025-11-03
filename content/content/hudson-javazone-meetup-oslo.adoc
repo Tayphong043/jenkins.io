@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/08/31/hudson-at-javazone-meetup-in-oslo
----

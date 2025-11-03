@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2011/03/23/windows-installers-are-now-available
----

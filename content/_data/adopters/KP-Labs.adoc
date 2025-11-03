@@ -1,6 +1,0 @@
----
-name: "KP Labs"
-url: https://www.kplabs.pl/en/
-detailsUrl: https://stories.jenkins.io/user-story/to-space/
-detailsLinkText: User Story
----

@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2015/10/19/upcoming-in-office-hours-fosdem-planning-session
----

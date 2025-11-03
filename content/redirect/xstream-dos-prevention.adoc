@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /security/advisory/2022-02-09/#SECURITY-2602
----

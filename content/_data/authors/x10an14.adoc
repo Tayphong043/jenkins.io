@@ -1,4 +1,0 @@
----
-name: "Christian Chavez"
-github: "x10an14"
----

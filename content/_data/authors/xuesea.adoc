@@ -1,4 +1,0 @@
----
-name: "Li Lianqiang"
-github: "xuesea"
----

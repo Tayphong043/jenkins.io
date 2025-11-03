@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2010/03/05/links-for-2010-03-04
----

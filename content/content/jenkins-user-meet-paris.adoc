@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: /blog/2014/09/02/jenkins-user-meet-up-in-paris
----

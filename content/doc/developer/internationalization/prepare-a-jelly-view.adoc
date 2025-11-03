@@ -1,5 +1,0 @@
----
-title: Prepare a Jelly-based View for Localization
-layout: developer
-wip: true
----
